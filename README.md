@@ -1,5 +1,7 @@
 # Cheap Yellow Marauder (CYD) - DIY Build Log
 
+🌍 *[Read this documentation in English](README_en.md)*
+
 ⚠️ **DISCLAIMER:** Acest dispozitiv a fost asamblat strict în scopuri educaționale. Firmware-ul ESP32 Marauder este o unealtă puternică de testare a rețelelor (pentesting). Utilizarea lui asupra rețelelor sau dispozitivelor fără consimțământul proprietarilor este ilegală.
 
 ## Despre acest build
